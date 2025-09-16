@@ -1,2 +1,2 @@
 # Data-engineering-SQL-practice
-SQL for Data Engineering 
+This repository contains SQL practice exercises.
